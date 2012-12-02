@@ -1,0 +1,51 @@
+body {
+
+   font-family: Arial, sans-serif;
+
+}
+
+table {
+
+   border-collapse: collapse;
+
+   border: 3px solid limeGreen;
+
+   display: inline-block;
+
+   padding: 0.4em;
+
+}
+
+th {
+
+   background-color: chocolate;
+
+   color: black;
+
+   padding: 0.4em;
+
+}
+
+td {
+
+   padding: 0.4em;
+
+   height: 21px;
+
+}
+
+.column1, .column2 {
+
+   width: 40px;
+
+}
+
+
+
+.column3 {
+
+   width: 200px;
+
+}
+
+
